@@ -32,6 +32,11 @@ Lowest: Madison (73.2)
 - Debugging errors
 - Logic for highest and lowest
 
+## 🚀 New Features (Version 2)
+- Class average calculation
+- Student ranking system
+- Subject-wise toppers
+
 ## 🔮 Future Improvements
 - Add subject-wise analysis
 - Add visualization (graphs)
